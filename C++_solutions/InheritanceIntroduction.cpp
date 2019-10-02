@@ -16,9 +16,8 @@ class isosceles:public triangle
     public:
     void get2()
     {
-        cout<<"I am an isosceles triangle"<<"\n";
-        cout<<"In an isosceles triangle two sides are equal"<<"\n";
-    }
+        cout<<"I am an isosceles triangle"<<"\n"<<"In an isosceles triangle two sides are equal"<<"\n";
+   }
 
 };
 int main()
